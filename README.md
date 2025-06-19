@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [SQL Data Analysis Projects](https://github.com/Dom-380/sql-data-analysis-projects)
+### 📊 [SQL Data Analysis Projects](https://github.com/Dom-380/sql-analytics-projects)
 SQL analysis projects showcasing data cleaning, querying, and insight generation from real-world datasets.
 
 ### 🐍 [Python Business Projects](https://github.com/Dom-380/python-business-projects)
