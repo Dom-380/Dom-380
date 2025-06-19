@@ -7,7 +7,7 @@
 🛠️ Tools: Excel, Power BI, Tableau<br/> 
 ☕ Fueling my data sessions with caffeine and synthwave<br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
 ### 📊 [SQL Data Analysis Projects](https://github.com/Dom-380/sql-analytics-projects)
 SQL analysis projects showcasing data cleaning, querying, and insight generation from real-world datasets.
