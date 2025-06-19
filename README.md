@@ -2,9 +2,10 @@
 
 🔍 Data analyst with a keen interest in crafting actionable narratives with data<br/>
 🧠 Earned my Bachelor's Degree in Data Science from [Nevada State University](https://nevadastate.edu/)<br/>
-💼 Currently working on machine learning and business analysis projects with Python<br/> 
-🧰 Languages: SQL, Python, R | Tools: Excel, Power BI, Tableau<br/> 
-☕ Fueling my data sessions with caffine and synthwave<br/>
+💼 Currently working on business analysis projects with Python and SQL<br/> 
+🧰 Languages: SQL, Python, R<br/> 
+🛠️ Tools: Excel, Power BI, Tableau<br/> 
+☕ Fueling my data sessions with caffeine and synthwave<br/>
 
 
 # 💻 Tech Stack:
