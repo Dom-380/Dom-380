@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects:
 
 ### 💹 [R Statistical Analysis Project](https://github.com/Dom-380/log-regression-banking/tree/main)
-This project applies logistic regression and statistical analysis to uncover demographic trends influencing the likelihood of bank customers signing up for a term deposit account. 
+This project uses logistic regression and statistical analysis to uncover demographic trends influencing the likelihood of bank customers signing up for a term deposit account. 
 
 ### 📊 [SQL Data Analysis Projects](https://github.com/Dom-380/sql-analytics-projects)
 SQL analysis projects showcasing data cleaning, querying, and insight generation from real-world datasets.
