@@ -9,14 +9,14 @@
 
 ## 🚀 Featured Projects:
 
+### 💹 [R Statistical Analysis Project](https://github.com/Dom-380/log-regression-banking/tree/main)
+This project applies logistic regression and statistical analysis to uncover demographic trends influencing the likelihood of bank customers signing up for a term deposit account. 
+
 ### 📊 [SQL Data Analysis Projects](https://github.com/Dom-380/sql-analytics-projects)
 SQL analysis projects showcasing data cleaning, querying, and insight generation from real-world datasets.
 
 ### 🐍 [Python Business Projects](https://github.com/Dom-380/python-business-projects)
 A collection of Python-driven analytics including data modeling, segmentation, data visualization
-
-### 💹 [R Statistical Analysis Project](https://github.com/Dom-380/log-regression-banking/tree/main)
-This project applies logistic regression and statistical analysis to uncover demographic trends influencing the likelihood of bank customers signing up for a term deposit account. 
 
 ### 📈 [Excel Analytics Portfolio](https://github.com/Dom-380/excel-data-analysis)
 A statistical and visual exploration of blood pressure trends, combining survey data, real-world health metrics, and research review
